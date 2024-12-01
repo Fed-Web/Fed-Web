@@ -1,2 +1,3 @@
 - learn basic skill
 - learn html,css,js/php
+- hope that i can be fullstack dev in 2 year
