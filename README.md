@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me just contact
 - 😄 Pronouns: -
-- ⚡ Fun fact: i hate workout
-- learn html css java rn
-- ntmy...
+- ⚡ Fun fact: -
 
 <!---
 Fed-Web/Fed-Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
